@@ -38,7 +38,7 @@ int main()
 }
 ```
 
-O/P:
+O/P:![image](https://github.com/user-attachments/assets/631ae3bc-6bf5-4c75-ae61-46d0f885a338)
 
 
 2. Swapping values:
@@ -63,7 +63,9 @@ int main()
 }
 ```
 
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/c67629b4-251b-4b85-bc61-bf83167322e9)
+
+
 
 
 
@@ -89,7 +91,8 @@ int main()
 }
 ```
 
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/d8ba8025-cb37-4e25-8d3c-28b81c92c6e9)
+
 
 
 
